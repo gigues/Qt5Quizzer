@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.out
+*.log
+*.save
+*.note
+*.orig
+*.o
+*.so
